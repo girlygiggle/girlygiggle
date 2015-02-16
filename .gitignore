@@ -8,7 +8,7 @@ src/test_litecoin
 *.rej
 *.orig
 *.o
-*.patch
+#*.patch
 .litecoin
 
 # Compilation and Qt preprocessor part
